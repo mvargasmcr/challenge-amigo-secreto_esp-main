@@ -21,7 +21,7 @@ Sigue los pasos a continuación para ejecutar este proyecto localmente.
 1. Clona este repositorio a tu máquina local:
 
     ```bash
-    git clone https://github.com/mvargasmcr/challenge-amigo-secreto_esp-main.zip
+    git clone https://github.com/mvargasmcr/challenge-amigo-secreto_esp-main.git
     ```
 
 2. Navega al directorio del proyecto:
